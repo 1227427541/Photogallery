@@ -353,18 +353,18 @@ footer {
         top: -15px;
         margin-left:30px;
     }
-    
-    #gallery{
-        display: grid;        
-        grid-template-columns: repeat(2, 1fr);
-        position: relative;
-        margin-left: -20px;
-        margin-right:20px;
-        margin-top: 65px;
-        padding-top: 55px;
+
+    .photogallery {
+        display: grid;
+        grid-template-columns: 400px 400px;
+        width: 880px;
+        margin: 0.75em 0px;
+        justify-content: center;
+        align-items: start;
+        align-self: center;
     }
 
-    #gallery img{
+    img {
         width:95%;
     }
 
@@ -403,23 +403,15 @@ footer {
         left: 200px;
     }
     
-    #gallery {
+
+    .photogallery {
         display: grid;
-        grid-template-columns: repeat(3, 1fr);
-    }
-    
-    #gallery figure{
-        margin:0;
-    }
-
-    #gallery img{
-        width:96%;
-        height: auto;
-    }
-
-    #gallery figcaption{
-        text-align: center;
-        margin-top: 5px
+        grid-template-columns: 400px 400px 400px;
+        width: 1300px;
+        margin: 0.75em 0px;
+        justify-content: center;
+        align-items: start;
+        align-self: center;
     }
 
     #yourname, #youremail, #yourmessage {
