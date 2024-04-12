@@ -18,6 +18,7 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
+
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
@@ -351,6 +352,7 @@ footer p{
 		width: 500px;
 	}
 }
+
 @media screen and (min-width: 1300px){
 	body{
 		width: 1300px;
