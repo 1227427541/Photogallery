@@ -129,6 +129,7 @@ p {
     display: flex;
     text-transform: uppercase;
     text-align: center;
+    margin: 0px;
     position: absolute;
     top: -35px;
 }
@@ -147,6 +148,7 @@ p {
     display: flex;
     text-transform: uppercase;
     text-align: center;
+    margin: 0px;
     position: absolute;
     bottom: 35px;
 }
@@ -156,6 +158,7 @@ p {
     display: flex;
     text-transform: uppercase;
     text-align: center;
+    margin: 0px;
     position: absolute;
     bottom: 620px;
 }
@@ -165,6 +168,7 @@ p {
     display: flex;
     text-transform: uppercase;
     text-align: center;
+    margin: 0px;
     position: absolute;
     bottom: 605px;
 }
@@ -174,6 +178,7 @@ p {
     display: flex;
     text-transform: uppercase;
     text-align: center;
+    margin: 0px;
     position: absolute;
     bottom: 30px;
 }
@@ -183,6 +188,7 @@ p {
     display: flex;
     text-transform: uppercase;
     text-align: center;
+    margin: 0px;
     position: absolute;
     bottom: 30px;
 }
@@ -192,6 +198,7 @@ p {
     display: flex;
     text-transform: uppercase;
     text-align: center;
+    margin: 0px;
     position: absolute;
     bottom: 270px;
 }
@@ -201,6 +208,7 @@ p {
     display: flex;
     text-transform: uppercase;
     text-align: center;
+    margin: 0px;
     position: absolute;
     bottom: 270px;
 }
@@ -210,6 +218,7 @@ p {
     display: flex;
     text-transform: uppercase;
     text-align: center;
+    margin: 0px;
     position: absolute;
     bottom: 270px;
 }
@@ -219,6 +228,7 @@ p {
     display: flex;
     text-transform: uppercase;
     text-align: center;
+    margin: 0px;
     position: absolute;
     bottom: 270px;
 }
@@ -228,6 +238,7 @@ p {
     display: flex;
     text-transform: uppercase;
     text-align: center;
+    margin: 0px;
     position: absolute;
     bottom: 270px;
 }
