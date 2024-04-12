@@ -122,31 +122,8 @@ p {
     margin-left:30px ;
 }
 
-.photogallery {
-display: flex;
-flex-direction: column;
-align-items: center;
-justify-content: center;
-}
 
-figure{
-position: relative;
-display: flex;
-flex-direction: column;
-align-items: center;
-margin: 0.75em auto;
-}
-
-figcaption{
-font-size: 1em;
-text-align: center;
-}
-
-img{
-width: 28em;
-}
-
-.chile {
+.chile figcaption{
     position: absolute;
     justify-content: center;
     display: flex;
@@ -156,7 +133,7 @@ width: 28em;
     text-transform: uppercase;
 }
 
-.guatemala {
+.guatemala figcaption{
     position: absolute;
     justify-content: center;
     display: flex;
@@ -166,7 +143,7 @@ width: 28em;
     text-transform: uppercase;
 }
 
-.hawaii {
+.hawaii figcaption{
     position: absolute;
     justify-content: center;
     display: flex;
@@ -176,7 +153,7 @@ width: 28em;
     text-transform: uppercase;
 }
 
-.iran {
+.iran figcaption{
     position: absolute;
     justify-content: center;
     display: flex;
@@ -186,7 +163,7 @@ width: 28em;
     text-transform: uppercase;
 }
 
-.ireland {
+.ireland figcaption{
     position: relative;
     justify-content: center;
     display: flex;
@@ -196,7 +173,7 @@ width: 28em;
     text-transform: uppercase;
 }
 
-.italy {
+.italy figcaption{
     position: absolute;
     justify-content: center;
     display: flex;
@@ -206,7 +183,7 @@ width: 28em;
     text-transform: uppercase;
 }
 
-.moabdesert {
+.moabdesert figcaption{
     position: absolute;
     justify-content: center;
     display: flex;
@@ -216,7 +193,7 @@ width: 28em;
     text-transform: uppercase;
 }
 
-.rockymountains {
+.rockymountains figcaption{
     position: absolute;
     justify-content: center;
     display: flex;
@@ -226,7 +203,7 @@ width: 28em;
     text-transform: uppercase;
 }
 
-.switzerland {
+.switzerland figcaption{
     position: absolute;
     justify-content: center;
     display: flex;
@@ -236,7 +213,7 @@ width: 28em;
     text-transform: uppercase;
 }
 
-.uk {
+.uk figcaption{
     position: absolute;
     justify-content: center;
     display: flex;
@@ -246,7 +223,7 @@ width: 28em;
     text-transform: uppercase;
 }
 
-.usa {
+.usa figcaption{
     position: absolute;
     justify-content: center;
     display: flex;
@@ -256,7 +233,7 @@ width: 28em;
     text-transform: uppercase;
 }
 
-.wyoming { 
+.wyoming figcaption{ 
     position: absolute;
     justify-content: center;
     display: flex;
