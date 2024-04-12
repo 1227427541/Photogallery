@@ -124,7 +124,7 @@ figcaption, footer, #contact p{
 #contact p{
 	margin: 20px;
 }
-#chile{
+#Chile{
 	display: inline-block;
 	position: absolute;
 	top: 750px;
@@ -133,7 +133,7 @@ figcaption, footer, #contact p{
 	color: #fff;
 	font-weight: bold;
 }
-#guatemala{
+#Guatemala{
 	display: inline-block;
 	position: absolute;
 	top: 815px;
@@ -142,7 +142,7 @@ figcaption, footer, #contact p{
 	color: #fff;
 	font-weight: bold;
 }
-#gawaii{
+#Hawaii{
 	display:inline-block;
 	position: absolute;
 	top: 1350px;
@@ -151,7 +151,7 @@ figcaption, footer, #contact p{
 	color: #fff;
 	font-weight: bold;
 }
-#iran{
+#Iran{
 	display:inline-block;
 	position: absolute;
 	top: 1415px;
@@ -160,7 +160,7 @@ figcaption, footer, #contact p{
 	color: #000;
 	font-weight: bold;
 }
-#ireland{
+#Ireland{
 	display:inline-block;
 	position: absolute;
 	top: 2065px;
@@ -169,7 +169,7 @@ figcaption, footer, #contact p{
 	color: #000;
 	font-weight: bold;
 }
-#italy{
+#Italy{
 	display:inline-block;
 	position: absolute;
 	top: 3302px;
@@ -178,7 +178,7 @@ figcaption, footer, #contact p{
 	color: #000;
 	font-weight: bold;
 }
-#moabdesert{
+#Moab{
 	display:inline-block;
 	position: absolute;
 	top: 3602px;
@@ -187,7 +187,7 @@ figcaption, footer, #contact p{
 	color: #fff;
 	font-weight: bold;
 }
-#rockymountains{
+#Rocky{
 	display:inline-block;
 	position: absolute;
 	top: 3670px;
@@ -196,7 +196,7 @@ figcaption, footer, #contact p{
 	color: #000;
 	font-weight: bold;
 }
-#switzerland{
+#Switzerland{
 	display:inline-block;
 	position: absolute;
 	top: 3970px;
@@ -205,7 +205,7 @@ figcaption, footer, #contact p{
 	color: #000;
 	font-weight: bold;
 }
-#uk{
+#UK{
 	display:inline-block;
 	position: absolute;
 	top: 4265px;
@@ -214,7 +214,7 @@ figcaption, footer, #contact p{
 	color: #000;
 	font-weight: bold;
 }
-#usa{
+#USA{
 	display:inline-block;
 	position: absolute;
 	top: 4565px;
@@ -223,7 +223,7 @@ figcaption, footer, #contact p{
 	color: #000;
 	font-weight: bold;
 }
-#wyoming{
+#Wyoming{
 	display:inline-block;
 	position: absolute;
 	top: 4865px;
@@ -285,62 +285,62 @@ footer p{
 	#gallery h2, #gallery p{
 		grid-column: 1/3;
 	}
-	#chile{
+	#Chile{
 		display: inline-block;
 		position: absolute;
 		top: 680px;
 	}
-	#guatemala{
+	#Guatemala{
 		display: inline-block;
 		position: absolute;
 		top: 440px;
 	}
-	#hawaii{
+	#Hawaii{
 		display: inline-block;
 		position: absolute;
 		top: 980px;
 	}
-	#iran{
+	#Iran{
 		display: inline-block;
 		position: absolute;
 		top: 745px;
 	}
-	#ireland{
+	#Ireland{
 		display: inline-block;
 		position: absolute;
 		top: 1400px;
 	}
-	#italy{
+	#Italy{
 		display: inline-block;
 		position: absolute;
 		top: 1985px;
 	}
-	#moabdesert{
+	#Moab{
 		display: inline-block;
 		position: absolute;
 		top: 2280px;
 	}
-	#rockymountains{
+	#Rocky{
 		display: inline-block;
 		position: absolute;
 		top: 2045px;
 	}
-	#switzerland{
+	#Switzerland{
 		display: inline-block;
 		position: absolute;
 		top: 2345px;
 	}
-	#uk{
+	#UK{
 		display: inline-block;
 		position: absolute;
 		top: 2345px;
 	}
-	#usa{
+	#USA{
 		display: inline-block;
 		position: absolute;
 		top: 2645px;
 	}
-	#wyoming{
+	#Wyoming{
 		display: inline-block;
 		position: absolute;
 		top: 2645px;
@@ -375,62 +375,62 @@ footer p{
 	#gallery h2, #gallery p{
 		grid-column: 1/4;
 	}
-	#chile{
+	#Chile{
 		display: inline-block;
 		position: absolute;
 		top: 680px;
 	}
-	#guatemala{
+	#Guatemala{
 		display: inline-block;
 		position: absolute;
 		top: 440px;
 	}
-	#hawaii{
+	#Hawaii{
 		display: inline-block;
 		position: absolute;
 		top: 680px;
 	}
-	#iran{
+	#Iran{
 		display: inline-block;
 		position: absolute;
 		top: 745px;
 	}
-	#ireland{
+	#Ireland{
 		display: inline-block;
 		position: absolute;
 		top: 745px;
 	}
-	#italy{
+	#Italy{
 		display: inline-block;
 		position: absolute;
 		top: 1330px;
 	}
-	#moab{
+	#Moab{
 		display: inline-block;
 		position: absolute;
 		top: 1630px;
 	}
-	#rocky{
+	#Rocky{
 		display: inline-block;
 		position: absolute;
 		top: 1400px;
 	}
-	#switzerland{
+	#Switzerland{
 		display: inline-block;
 		position: absolute;
 		top: 1400px;
 	}
-	#uk{
+	#UK{
 		display: inline-block;
 		position: absolute;
 		top: 1700px;
 	}
-	#usa{
+	#USA{
 		display: inline-block;
 		position: absolute;
 		top: 1700px;
 	}
-	#wyoming{
+	#Wyoming{
 		display: inline-block;
 		position: absolute;
 		top: 1700px;
