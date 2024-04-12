@@ -43,26 +43,26 @@ table {
 }
 
 html{
-	background-color: #000;
+	background-color: black;
 }
 body{
 	width: 485px;
 	margin: 0 auto;
-	background-color: #fff;
+	background-color: white;
 	font-family: Arial, Helvetica, sans-serif;
 }
 header{
 	width: 485px;
 }
 nav{
-	background-color: #000;
-	color:#fff;
+	background-color: black;
+	color: white;
 	text-align: center;
 }
 nav a{
 	font-size: 1.5em;
 	text-decoration: none;
-	color: #fff;
+	color: white;
 }
 nav h2{
 	visibility: hidden;
@@ -76,10 +76,11 @@ nav li{
 }
 [href="#top"] {
 	position: fixed;
-	bottom:10px;
-	right:7px;
-	background-color: #000;
-	border: 1px solid #fff;
+	bottom:6px;
+	right:4px;
+	background-color: black;
+    border-color: white;
+    border-width: 2px;
 }
 h1{
 	font-size: 3em;
@@ -89,13 +90,13 @@ h1{
 }
 h2{
 	font-size: 2em;
-	color: #000;
+	color: black;
 	text-align: center;
 	margin: 15px;
 }
 p{
 	font-size: 1.25em;
-	color: #000;
+	color: black;
 	padding: 10px;
 }
 figcaption, label, input, small{
@@ -115,8 +116,8 @@ figcaption, footer, #contact p{
 	text-align: center;
 }
 #contact, #contact h2, #contact p{
-	background-color: #000;
-	color: #fff;
+	background-color: black;
+	color: white;
 }
 #contact h2{
 	padding: 15px;
@@ -130,7 +131,7 @@ figcaption, footer, #contact p{
 	top: 750px;
 	width: 485px;
 	text-align: center;
-	color: #fff;
+	color: white;
 	font-weight: bold;
 }
 #Guatemala{
@@ -139,7 +140,7 @@ figcaption, footer, #contact p{
 	top: 815px;
 	width: 485px;
 	text-align: center;
-	color: #fff;
+	color: white;
 	font-weight: bold;
 }
 #Hawaii{
@@ -148,7 +149,7 @@ figcaption, footer, #contact p{
 	top: 1350px;
 	width: 485px;
 	text-align: center;
-	color: #fff;
+	color: white;
 	font-weight: bold;
 }
 #Iran{
@@ -157,7 +158,7 @@ figcaption, footer, #contact p{
 	top: 1415px;
 	width: 485px;
 	text-align: center;
-	color: #000;
+	color: black;
 	font-weight: bold;
 }
 #Ireland{
@@ -166,7 +167,7 @@ figcaption, footer, #contact p{
 	top: 2065px;
 	width: 485px;
 	text-align: center;
-	color: #000;
+	color: black;
 	font-weight: bold;
 }
 #Italy{
@@ -175,7 +176,7 @@ figcaption, footer, #contact p{
 	top: 3302px;
 	width: 485px;
 	text-align: center;
-	color: #000;
+	color: black;
 	font-weight: bold;
 }
 #Moab{
@@ -184,7 +185,7 @@ figcaption, footer, #contact p{
 	top: 3602px;
 	width: 485px;
 	text-align: center;
-	color: #fff;
+	color: white;
 	font-weight: bold;
 }
 #Rocky{
@@ -193,7 +194,7 @@ figcaption, footer, #contact p{
 	top: 3670px;
 	width: 485px;
 	text-align: center;
-	color: #000;
+	color: black;
 	font-weight: bold;
 }
 #Switzerland{
@@ -202,7 +203,7 @@ figcaption, footer, #contact p{
 	top: 3970px;
 	width: 485px;
 	text-align: center;
-	color: #000;
+	color: black;
 	font-weight: bold;
 }
 #UK{
@@ -211,7 +212,7 @@ figcaption, footer, #contact p{
 	top: 4265px;
 	width: 485px;
 	text-align: center;
-	color: #000;
+	color: black;
 	font-weight: bold;
 }
 #USA{
@@ -220,7 +221,7 @@ figcaption, footer, #contact p{
 	top: 4565px;
 	width: 485px;
 	text-align: center;
-	color: #000;
+	color: black;
 	font-weight: bold;
 }
 #Wyoming{
@@ -229,7 +230,7 @@ figcaption, footer, #contact p{
 	top: 4865px;
 	width: 485px;
 	text-align: center;
-	color: #fff;
+	color: white;
 	font-weight: bold;
 }
 input{
@@ -245,7 +246,7 @@ input::placeholder{
 }
 input[type="submit"]{
 	background-color: #007d7b;
-	color: #fff;
+	color: white;
 	font-weight: bold;
 	margin: 30px;
 	width: 300px;
@@ -256,10 +257,10 @@ div{
 	text-align: center;
 }
 footer{
-	background-color: #000;
+	background-color: black;
 }
 footer p{
-	color: #fff;
+	color: white;
 }
 
 @media screen and (min-width: 880px){
