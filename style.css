@@ -124,123 +124,149 @@ p {
     margin-left:30px ;
 }
 
-.chile figcaption {
+.photogallery {
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+
+figure{
+position: relative;
+display: flex;
+flex-direction: column;
+align-items: center;
+margin: 0.75em auto;
+}
+
+figcaption{
+font-size: 1em;
+text-align: center;
+}
+
+img{
+width: 28em;
+}
+
+
+.chile {
+    position: absolute;
+    justify-content: center;
+    display: flex;
+    top: 275px;
+    margin: 0px;
     color: white;
-    display: flex;
     text-transform: uppercase;
-    text-align: center;
-    margin: 0px;
-    position: absolute;
-    top: -35px;
 }
 
-.guatemala figcaption {
+.guatemala {
+    position: absolute;
+    justify-content: center;
+    display: flex;
+    top: 25px;
+    margin: 0px;
     color: white;
-    display: flex;
     text-transform: uppercase;
-    text-align: center;
-    position: absolute;
-    top: -270px;
 }
 
-.hawaii figcaption {
-    color:black;
+.hawaii {
+    position: absolute;
+    justify-content: center;
     display: flex;
-    text-transform: uppercase;
-    text-align: center;
+    top: 275px;
     margin: 0px;
-    position: absolute;
-    bottom: 35px;
-}
-
-.iran figcaption {
-    color:black;
-    display: flex;
-    text-transform: uppercase;
-    text-align: center;
-    margin: 0px;
-    position: absolute;
-    bottom: 620px;
-}
-
-.ireland figcaption {
-    color:black;
-    display: flex;
-    text-transform: uppercase;
-    text-align: center;
-    margin: 0px;
-    position: absolute;
-    bottom: 605px;
-}
-
-.italy figcaption {
-    color:black;
-    display: flex;
-    text-transform: uppercase;
-    text-align: center;
-    margin: 0px;
-    position: absolute;
-    bottom: 30px;
-}
-
-.moabdesert figcaption {
     color: white;
-    display: flex;
     text-transform: uppercase;
-    text-align: center;
-    margin: 0px;
-    position: absolute;
-    bottom: 30px;
 }
 
-.rockymountains figcaption {
-    color:black;
-    display: flex;
-    text-transform: uppercase;
-    text-align: center;
-    margin: 0px;
+.iran {
     position: absolute;
-    bottom: 270px;
+    justify-content: center;
+    display: flex;
+    top: 25px;
+    margin: 0px;
+    color: black;
+    text-transform: uppercase;
 }
 
-.switzerland figcaption {
-    color:black;
+.ireland {
+    position: relative;
+    justify-content: center;
     display: flex;
-    text-transform: uppercase;
-    text-align: center;
+    top: -660px;
     margin: 0px;
-    position: absolute;
-    bottom: 270px;
+    color: black;
+    text-transform: uppercase;
 }
 
-.uk figcaption {
-    color:black;
-    display: flex;
-    text-transform: uppercase;
-    text-align: center;
-    margin: 0px;
+.italy {
     position: absolute;
-    bottom: 270px;
+    justify-content: center;
+    display: flex;
+    top: 635px;
+    margin: 0px;
+    color: black;
+    text-transform: uppercase;
 }
 
-.usa figcaption {
-    color:black;
-    display: flex;
-    text-transform: uppercase;
-    text-align: center;
-    margin: 0px;
+.moabdesert {
     position: absolute;
-    bottom: 270px;
-}
-
-.wyoming figcaption { 
+    justify-content: center;
+    display: flex;
+    top: 275px;
+    margin: 0px;
     color: white;
-    display: flex;
     text-transform: uppercase;
-    text-align: center;
-    margin: 0px;
+}
+
+.rockymountains {
     position: absolute;
-    bottom: 270px;
+    justify-content: center;
+    display: flex;
+    top: 25px;
+    margin: 0px;
+    color: black;
+    text-transform: uppercase;
+}
+
+.switzerland {
+    position: absolute;
+    justify-content: center;
+    display: flex;
+    top: 25px;
+    margin: 0px;
+    color: black;
+    text-transform: uppercase;
+}
+
+.uk {
+    position: absolute;
+    justify-content: center;
+    display: flex;
+    top: 25px;
+    margin: 0px;
+    color: black;
+    text-transform: uppercase;
+}
+
+.usa {
+    position: absolute;
+    justify-content: center;
+    display: flex;
+    top: 25px;
+    margin: 0px;
+    color: black;
+    text-transform: uppercase;
+}
+
+.wyoming { 
+    position: absolute;
+    justify-content: center;
+    display: flex;
+    top: 25px;
+    margin: 0px;
+    color: white;
+    text-transform: uppercase;
 }
 
 #contact {
