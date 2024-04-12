@@ -109,9 +109,7 @@ section h2 {
 }
 p {
     font-size: 1.25em;
-    line-height: 1.4;
-    word-spacing: .5px;
-    margin-left:10px;
+    margin-top: 1em;
 }
 
 #gallery p{
@@ -147,7 +145,6 @@ text-align: center;
 img{
 width: 28em;
 }
-
 
 .chile {
     position: absolute;
@@ -357,6 +354,7 @@ footer {
     .photogallery {
         display: grid;
         grid-template-columns: 400px 400px;
+        grid-template-columns: repeat(2, 1fr);
         width: 880px;
         margin: 0.75em 0px;
         justify-content: center;
@@ -399,14 +397,18 @@ footer {
         margin-right: -250px;
         }
     
-        #gallery h2 {
+    #gallery h2 {
         left: 200px;
     }
     
+    
+    #gallery figure{
+        margin:0;
+    }
 
     .photogallery {
         display: grid;
-        grid-template-columns: 400px 400px 400px;
+        grid-template-columns: repeat(3, 1fr);
         width: 1300px;
         margin: 0.75em 0px;
         justify-content: center;
